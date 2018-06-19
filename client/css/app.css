@@ -502,7 +502,8 @@ a {
 
 .menu,
 .menu .item-content {
-    background-color: #69625A;
+    /*background-color: #69625A; */
+    background-color: #0085BA;
 }
 
 .menu .item-content {
