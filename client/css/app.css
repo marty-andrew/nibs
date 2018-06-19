@@ -39,8 +39,7 @@ a {
 }
 
 .card-bg {
-    /* background-color: #fbfbfb; */
-    background-color: #d3d3d3;
+    background-color: #fbfbfb;
 }
 
 .profile-pic {
@@ -252,8 +251,8 @@ a {
 }
 
 .bar-status {
-    border-color: #73732E;
-    background-color: #73732E;
+    border-color: #d3d3d3;
+    background-color: #d3d3d3;
     background-image: none;
     color: #fff;
 }
@@ -282,8 +281,8 @@ a {
 
 .button-status,
 {
-    border-color: #73732E;
-    background-color: #73732E;
+    border-color: #d3d3d3;
+    background-color: #d3d3d3;
     background-image: none;
     color: #fff;
 }
