@@ -39,7 +39,8 @@ a {
 }
 
 .card-bg {
-    background-color: #fbfbfb;
+    /* background-color: #fbfbfb; */
+    background-color: #d3d3d3;
 }
 
 .profile-pic {
