@@ -258,21 +258,21 @@ a {
 }
 
 .bar-status1 {
-    border-color: #73732E;
-    background-color: #73732E;
+    border-color: #d3d3d3;
+    background-color: #d3d3d3;
     background-image: none;
     color: #fff;
 }
 
 .bar-status2 {
-    border-color: #A87E21;
-    background-color: #A87E21;
+    border-color: #d3d3d3;
+    background-color: #d3d3d3;
     background-image: none;
     color: #fff;
 }
 
 .bar-status3 {
-    border-color: #802E13;
+    border-color: #d3d3d3;
     background-color: #802E13;
     background-image: none;
     color: #fff;
@@ -290,15 +290,15 @@ a {
 .button-status1,
 .button-status1:hover,
 .button-status1:active {
-    background-color: #73732E;
+    background-color: #d3d3d3;
     color: #fff;
 }
 
 .button-status2,
 .button-status2:hover,
 .button-status2:active {
-    border-color: #A87E21;
-    background-color: #A87E21;
+    border-color: #d3d3d3;
+    background-color: #d3d3d3;
     background-image: none;
     color: #fff;
 }
@@ -306,8 +306,8 @@ a {
 .button-status3,
 .button-status3:hover,
 .button-status3:active {
-    border-color: #802E13;
-    background-color: #802E13;
+    border-color: #d3d3d3;
+    background-color: #d3d3d3;
     background-image: none;
     color: #fff;
 }
@@ -355,18 +355,18 @@ a {
 }
 
 .status-bar>div:nth-of-type(1) {
-    border-top: solid 2px #73732E;
-    color: #73732E !important;
+    border-top: solid 2px #d3d3d3;
+    color: #d3d3d3 !important;
 }
 
 .status-bar>div:nth-of-type(2) {
-    border-top: solid 2px #A87E21;
+    border-top: solid 2px #d3d3d3;
     color: #A87E21 !important;
     text-align: center;
 }
 
 .status-bar>div:nth-of-type(3) {
-    border-top: solid 2px #802E13;
+    border-top: solid 2px #d3d3d3;
     color: #802E13 !important;
     text-align: right;
 }
@@ -387,27 +387,27 @@ a {
 }
 
 .status1-bg {
-    background: #73732E;
+    background: #d3d3d3;
 }
 
 .status2-bg {
-    background: #A87E21;
+    background: #d3d3d3;
 }
 
 .status3-bg {
-    background: #802E13;
+    background: #d3d3d3;
 }
 
 .status1 {
-    color: #73732E;
+    color: #d3d3d3;
 }
 
 .status2 {
-    color: #A87E21;
+    color: #d3d3d3;
 }
 
 .status3 {
-    color: #802E13;
+    color: #d3d3d3;
 }
 
 .icon-status1 {
