@@ -1,17 +1,17 @@
-<ion-view title="Product Details" class="card-bg">
+<ion-view title="Event Details" class="card-bg">
 
     <ion-content has-header="true" padding="true">
 
         <div class="list card">
             <div class="item">
-                <h2>{{product.name }}</h2>
-                <p>Available today!</p>
+                <h2>{{product.name}}</h2>
+                <p>On Sale Now!</p>
             </div>
             <div class="item item-body">
                 <img ng-if="product.image"  ng-src="{{product.image}}">
                 <p>{{product.description}}</p>
                 <button class="button button-block button-light" ng-click="saveToWishList()">
-                    Add to WishList
+                    Add to Favourites
                 </button>
             </div>
             <div class="item tabs tabs-secondary">
