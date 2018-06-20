@@ -411,21 +411,21 @@ a {
 }
 
 .icon-status1 {
-    background: url('img/icon-star-bronze.png');
+    background: url('img/icon-star1.png');
     background-size: contain;
     background-repeat: no-repeat;
     margin:0 0 0 12px;
 }
 
 .icon-status2 {
-    background: url('img/icon-star-silver.png');
+    background: url('img/icon-star2.png');
     background-size: contain;
     background-repeat: no-repeat;
     margin:0 0 0 12px;
 }
 
 .icon-status3 {
-    background: url('img/icon-star-gold.png');
+    background: url('img/icon-star3.png');
     background-size: contain;
     background-repeat: no-repeat;
     margin:0 0 0 12px;
