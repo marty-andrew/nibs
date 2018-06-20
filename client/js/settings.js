@@ -22,13 +22,13 @@ angular.module('nibs.settings', ['openfb', 'nibs.activity'])
         $scope.deleteActivities = function() {
             Activity.deleteAll().success(function() {
                 $rootScope.user.status = 1;
-                $ionicPopup.alert({title: 'Nibs', content: 'Activities deleted'});
+                $ionicPopup.alert({title: 'Clubs', content: 'Activities deleted'});
             });
         };
 
         $scope.deletePictures = function() {
             Picture.deleteAll().success(function() {
-                $ionicPopup.alert({title: 'Nibs', content: 'Pictures deleted'});
+                $ionicPopup.alert({title: 'Clubs', content: 'Pictures deleted'});
             });
         };
 
