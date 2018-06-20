@@ -251,29 +251,29 @@ a {
 }
 
 .bar-status {
-    border-color: #d3d3d3;
-    background-color: #d3d3d3;
+    border-color: #888888;
+    background-color: #888888;
     background-image: none;
     color: #fff;
 }
 
 .bar-status1 {
-    border-color: #d3d3d3;
-    background-color: #d3d3d3;
+    border-color: #888888;
+    background-color: #888888;
     background-image: none;
     color: #fff;
 }
 
 .bar-status2 {
-    border-color: #d3d3d3;
-    background-color: #d3d3d3;
+    border-color: #888888;
+    background-color: #888888;
     background-image: none;
     color: #fff;
 }
 
 .bar-status3 {
-    border-color: #d3d3d3;
-    background-color: #802E13;
+    border-color: #888888;
+    background-color: #888888;
     background-image: none;
     color: #fff;
 }
@@ -281,8 +281,8 @@ a {
 
 .button-status,
 {
-    border-color: #d3d3d3;
-    background-color: #d3d3d3;
+    border-color: #888888;
+    background-color: #888888;
     background-image: none;
     color: #fff;
 }
@@ -290,15 +290,15 @@ a {
 .button-status1,
 .button-status1:hover,
 .button-status1:active {
-    background-color: #d3d3d3;
+    background-color: #888888;
     color: #fff;
 }
 
 .button-status2,
 .button-status2:hover,
 .button-status2:active {
-    border-color: #d3d3d3;
-    background-color: #d3d3d3;
+    border-color: #888888;
+    background-color: #888888;
     background-image: none;
     color: #fff;
 }
@@ -306,8 +306,8 @@ a {
 .button-status3,
 .button-status3:hover,
 .button-status3:active {
-    border-color: #d3d3d3;
-    background-color: #d3d3d3;
+    border-color: #888888;
+    background-color: #888888;
     background-image: none;
     color: #fff;
 }
@@ -355,18 +355,18 @@ a {
 }
 
 .status-bar>div:nth-of-type(1) {
-    border-top: solid 2px #d3d3d3;
-    color: #d3d3d3 !important;
+    border-top: solid 2px #888888;
+    color: #888888 !important;
 }
 
 .status-bar>div:nth-of-type(2) {
-    border-top: solid 2px #d3d3d3;
+    border-top: solid 2px #888888;
     color: #A87E21 !important;
     text-align: center;
 }
 
 .status-bar>div:nth-of-type(3) {
-    border-top: solid 2px #d3d3d3;
+    border-top: solid 2px #888888;
     color: #802E13 !important;
     text-align: right;
 }
@@ -387,27 +387,27 @@ a {
 }
 
 .status1-bg {
-    background: #d3d3d3;
+    background: #888888;
 }
 
 .status2-bg {
-    background: #d3d3d3;
+    background: #888888;
 }
 
 .status3-bg {
-    background: #d3d3d3;
+    background: #888888;
 }
 
 .status1 {
-    color: #d3d3d3;
+    color: #888888;
 }
 
 .status2 {
-    color: #d3d3d3;
+    color: #888888;
 }
 
 .status3 {
-    color: #d3d3d3;
+    color: #888888;
 }
 
 .icon-status1 {
